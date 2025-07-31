@@ -4,6 +4,7 @@
 
 The National Social Assistance Program (NSAP) is a government welfare program in India that provides financial support to elderly individuals, widows, and persons with disabilities from below-poverty-line (BPL) households. This project uses IBM Watson Studio's AutoAI to automatically build a classification model that helps identify the most appropriate scheme for each applicant based on their demographic and socio-economic details.
 
+
 ⚙️ Key Features
 
 🔍 Predicts NSAP scheme codes based on applicant data
@@ -15,6 +16,7 @@ The National Social Assistance Program (NSAP) is a government welfare program in
 ☁️ One-click deployment on IBM Cloud
 
 👨‍💻 No manual coding required — built through AutoAI interface
+
 
 🛠️ Technology Used
 
@@ -30,6 +32,7 @@ Mobile Ownership, Aadhaar Status
 
 Number of Dependents, Scheme Code
 
+
 🚀 How It Works
 
 Data Collection – Historical applicant data including demographics and socio-economic details.
@@ -40,23 +43,26 @@ Model Deployment – Best pipeline is deployed as a web service for real-time pr
 
 Evaluation – Performance is assessed using accuracy, precision, recall, and F1-score.
 
+
 📷 Screenshots
 
 ## 📷 Screenshots
 
 ### 🔧 AutoAI Pipeline Overview
-![AutoAI Pipeline](images/autoai_pipeline.png)
+![AutoAI Pipeline](images/Screenshot 2025-07-31 023001.png)
 
 ### 📊 Dataset Preview
-![Dataset](images/dataset_preview.png)
+![Dataset](images/Screenshot 2025-07-31 025452.png)
 
 ### 🌐 Deployed Web Service
-![Deployment](images/deployment_ui.png)
+![Deployment](Screenshot 2025-07-31 040856.png)
+
 
 
 📈 Results
 
 An intelligent model capable of suggesting the correct NSAP scheme for each applicant with high accuracy, reducing manual errors and ensuring faster delivery of benefits.
+
 
 🔮 Future Scope
 
