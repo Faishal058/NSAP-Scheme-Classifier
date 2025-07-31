@@ -49,7 +49,7 @@ Evaluation – Performance is assessed using accuracy, precision, recall, and F1
 ## 📷 Screenshots
 
 ### 🔧 AutoAI Pipeline Overview
-![AutoAI Pipeline](images/Screenshot 2025-07-31 023001.png)
+![AutoAI Pipeline]([images/Screenshot 2025-07-31 023001.png](https://github.com/Faishal058/NSAP-Scheme-Classifier/blob/main/images/Screenshot%202025-07-31%20023001.png))
 
 ### 📊 Dataset Preview
 ![Dataset](images/Screenshot 2025-07-31 025452.png)
