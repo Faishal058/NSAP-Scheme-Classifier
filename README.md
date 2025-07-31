@@ -42,7 +42,17 @@ Evaluation – Performance is assessed using accuracy, precision, recall, and F1
 
 📷 Screenshots
 
-(Add screenshots of AutoAI pipeline, dataset, and deployed service UI here)
+## 📷 Screenshots
+
+### 🔧 AutoAI Pipeline Overview
+![AutoAI Pipeline](images/autoai_pipeline.png)
+
+### 📊 Dataset Preview
+![Dataset](images/dataset_preview.png)
+
+### 🌐 Deployed Web Service
+![Deployment](images/deployment_ui.png)
+
 
 📈 Results
 
