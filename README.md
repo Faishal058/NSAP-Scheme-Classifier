@@ -57,7 +57,8 @@ The National Social Assistance Program (NSAP) is a government welfare program in
 
 
 ### 🌐 Deployed Web Service
-![Deployment](images/Screenshot_2025-07-31_040856.png)
+![Deployment](images/Deployment_WebService.png)
+
 
 
 
