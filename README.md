@@ -53,10 +53,12 @@ Evaluation – Performance is assessed using accuracy, precision, recall, and F1
 
 
 ### 📊 Dataset Preview
-![Dataset](images/Screenshot 2025-07-31 025452.png)
+![Dataset](images/Screenshot%202025-07-31%20025452.png)
+
 
 ### 🌐 Deployed Web Service
-![Deployment](Screenshot 2025-07-31 040856.png)
+![Deployment](Screenshot%202025-07-31%20040856.png)
+
 
 
 
